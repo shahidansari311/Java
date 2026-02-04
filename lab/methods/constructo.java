@@ -7,6 +7,10 @@ public class constructo {
             a=0;
             name="Shahid";
         }
+        A(int ab,String cd){
+            a=ab;
+            name=cd;
+        }
         void display(){
             System.out.println(a+" "+name);
         }
