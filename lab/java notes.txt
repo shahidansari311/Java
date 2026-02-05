@@ -1,0 +1,15 @@
+#Constructor 
+Constructor is a special type method whose name is same as class name 
+
+Rule 
+1. Every java class has a constructor(default) 
+2. Main purpose of crating constructor is initialize the object
+3. Constructor is automatically call at the time of object  creation
+4. Constructor never contain any return type including void 
+
+Constructor type
+1. Default
+2. Parametrized
+3. Copy
+4. Private  (A.java)
+
